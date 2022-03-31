@@ -1,0 +1,1 @@
+This repository is contain some kata's solutions 
