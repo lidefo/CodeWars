@@ -29,7 +29,7 @@ def same_structure_as(original, other):
         return False
 
     for i in range(len(original)):
-        if type(original[i]) != type(other[i]):
+        if isinstance(original[i], list) != isinstance(other[i], list):
             return False
 
         if isinstance(original[i], list):
