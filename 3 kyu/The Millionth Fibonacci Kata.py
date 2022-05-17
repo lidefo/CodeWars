@@ -1,4 +1,6 @@
 '''
+3 kyu
+
 The Millionth Fibonacci Kata
 
 The year is 1214. One night, Pope Innocent III awakens to find the the archangel Gabriel floating before him.
